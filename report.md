@@ -17,7 +17,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 
 
-The following report is written in four parts:
+The following report is written in three parts:
 
 - **Implementation**
 
